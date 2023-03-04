@@ -1,0 +1,21 @@
+.{
+    nav-container
+    height: 111px;
+    width: 1728px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background: #000000;
+    background: #000000;
+
+    font-family: Ruda;
+font-size: 25px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0.09em;
+text-align: left;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 74.48%, rgba(0, 0, 0, 0.8) 100%);
+background: #FFFFFF;
+
+}
